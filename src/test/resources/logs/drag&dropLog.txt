@@ -1,0 +1,5 @@
+2019-08-07 15:01:41:909 [Appium] Welcome to Appium v1.13.0
+2019-08-07 15:01:41:911 [Appium] Non-default server args:
+2019-08-07 15:01:41:913 [Appium]   logFile: C:\Users\EdwardKalu\appiumStuffs\Testing\src\test\resources\logs\drag&dropLog.txt
+2019-08-07 15:01:41:913 [Appium]   localTimezone: true
+2019-08-07 15:01:41:994 [HTTP] Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.
